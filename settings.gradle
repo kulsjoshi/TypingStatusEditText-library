@@ -1,0 +1,3 @@
+include ':ChatEditTextLibrary'
+include ':app'
+rootProject.name = "ChatEditText"
