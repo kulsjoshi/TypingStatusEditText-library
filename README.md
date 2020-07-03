@@ -72,6 +72,7 @@
 - Androidx
 
 # LICENSE!
+This library is [Licensed](https://github.com/kulsjoshi/TypingStatusEditText-library/blob/master/LICENSE).
 
 # Let me know!
 I’d be really happy if you send me a links to your projects where you use my component. Just send an email to kuls.droid@gmail.com And do let me know if you have any questions or suggestion regarding our work.
