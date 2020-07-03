@@ -1,7 +1,7 @@
 # Get Typing Status of EditText
 
 
-###### This library let you know if user is typing anything in EditText. It is the simpletest way to get typing status which is basically used in Chat application.
+###### This library let you know if user is typing anything in EditText. It is the simpletest way to get typing status which is basically used in Chat application. Please go through following file to find how easy it is to implement in your project.
 
 
 ### Key features
